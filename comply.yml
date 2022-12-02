@@ -1,5 +1,5 @@
 name: Valiify
 filePrefix: Valiify
 tickets:
-  github: {}
+  github: {https://github.com/valiify/valiify}
 approvedBranch: ""
